@@ -2,7 +2,7 @@
 
 Generator options
 
-````
+```
 
 Opciones:
       --help     Muestra ayuda                                  [booleano]
